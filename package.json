@@ -1,0 +1,19 @@
+{
+  "name": "scribble",
+  "version": "1.0.0",
+  "description": "A drawing app which allows multiple users to draw on the same canvas in real-time.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd server && pnpm dev\" \"cd client && pnpm dev\"",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "Naing Linn Khant",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.2",
+    "@commitlint/config-conventional": "^18.4.0",
+    "concurrently": "^8.2.2",
+    "husky": "^8.0.3"
+  }
+}
