@@ -87,7 +87,7 @@ export default function CreateRoomForm({ roomId }: CreateRoomFormProps) {
             <FormItem>
               <FormLabel className='text-foreground'>Username</FormLabel>
               <FormControl>
-                <Input placeholder='johndoe' {...field} />
+                <Input placeholder='geomena' {...field} />
               </FormControl>
               <FormMessage className='text-xs' />
             </FormItem>

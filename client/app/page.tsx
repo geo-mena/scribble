@@ -46,16 +46,16 @@ export default function Home() {
         <p className='text-sm text-muted-foreground'>
           Crafted by{' '}
           <a
-            href='https://twitter.com/nainglk'
+            href='https://www.linkedin.com/in/geovannimena/'
             target='__blank'
             rel='noreferrer'
             className='font-medium underline underline-offset-4'
           >
-            nainglk
+            geovannimena
           </a>
           . The source code is on{' '}
           <a
-            href='https://github.com/nainglinnkhant/scribble'
+            href='https://github.com/geo-mena'
             target='__blank'
             rel='noreferrer'
             className='font-medium underline underline-offset-4'
