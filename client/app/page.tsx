@@ -55,7 +55,7 @@ export default function Home() {
           </a>
           . The source code is on{' '}
           <a
-            href='https://github.com/geo-mena'
+            href='https://github.com/geo-mena/scribble-app'
             target='__blank'
             rel='noreferrer'
             className='font-medium underline underline-offset-4'
