@@ -1,3 +1,7 @@
+# Scribble - Real-time Collaborative Drawing Application
+
+Scribble is a real-time collaborative drawing application. Users can join drawing rooms and work together on the same canvas, customizing stroke color, stroke width, and dash spacing. The application includes features like undo, save actions, toast notifications, and light/dark theme support. It is built with Next.js for the frontend, Express.js for the backend, and uses Socket.io for real-time communication. TailwindCSS is used for styling, and Zustand for state management.
+
 ## Features
 
 - color picker
